@@ -1,0 +1,13 @@
+.banner{
+background-color:darkslategrey;
+width:100%;
+height:150px;
+margin-bottom:50px;
+}
+.banner-text{
+font-family:times new roman;
+color:white;
+top:10%;
+left:20%;
+position:absolute;
+}
